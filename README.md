@@ -1,0 +1,1 @@
+# Ukrainian diceware wordlist
